@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+transformers
+requests
+openpyxl
+torch
+numpy<2.0
